@@ -1,0 +1,33 @@
+[
+    {
+        "ticker": "VEA",
+        "title": "Vanuard FTSE Developed Markets ETF",
+        "recommendedWeight": 0.13,
+        "existingShares": 8
+        
+    },
+    {
+        "ticker": "VIG",
+        "title": "Vanuard Dividend Appreciation ETF",
+        "recommendedWeight": 0.07,
+        "existingShares": 1
+    },
+    {
+        "ticker": "VTEB",
+        "title": "Vanuard Tax-Exempt Bond Index ETF",
+        "recommendedWeight": 0.23,
+        "existingShares": 7
+    },
+    {
+        "ticker": "VTI",
+        "title": "Vanuard Total Stock Market ETF",
+        "recommendedWeight": 0.45,
+        "existingShares": 3
+    },
+    {
+        "ticker": "VWO",
+        "title": "Vanguard FTSE Emerging Markets ETF",
+        "recommendedWeight": 0.12,
+        "existingShares": 6
+    }
+]
